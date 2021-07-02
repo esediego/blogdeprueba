@@ -41,6 +41,7 @@ body
 #container h1
 {
 font-size: 20px;
+<<<<<<< HEAD
 }
 #post
 {
@@ -93,4 +94,6 @@ font-size: 20px;
 >>>>>>> 5337844 (no sé qué pasó)
 =======
 >>>>>>> fa1aa8f (Modificación en html)
+=======
+>>>>>>> b99d0d5 (Cambié problemas del CSS)
 }
