@@ -9,6 +9,7 @@ Porque era marihuano
 Por eso le llamaron fanta
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ama a Dania x siempre
 =======
 Esta es la historia de un vato
@@ -32,3 +33,7 @@ Por eso le llamaron fanta
 =======
 Ama a Dania x siempre
 >>>>>>> 95ff8ff (cambio para Dania jeje)
+=======
+Ama a Dania x siempre
+A su vida
+>>>>>>> b8b057b (nuevos cambios)
