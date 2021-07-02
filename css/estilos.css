@@ -4,6 +4,7 @@ body
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: black;
 =======
     color: red;
@@ -11,6 +12,9 @@ body
 =======
     color: black;
 >>>>>>> d47c68e (prueba 2 para que haya conflicto)
+=======
+    color: red;
+>>>>>>> a563e20 (nuevos cambios para conflicto desde branch)
     text-align: left;
     font-family: "Arial";
     font-size: 16 px;
