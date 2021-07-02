@@ -2,6 +2,7 @@
 Esta es la historia de un vato
 
 Que se fue a la guerra y nunca volvio
+<<<<<<< HEAD
 Porque era marihuano
 
 Por eso le llamaron fanta
@@ -18,3 +19,6 @@ Por eso le llamaron fanta
 Ama a Dania x siempre
 >>>>>>> df3d5963eb01f4219b7b0e9094cc37d32312b216
 A su vida
+=======
+Por eso le llamaron fanta
+>>>>>>> 904db37 (Cambios chafas)
