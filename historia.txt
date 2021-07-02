@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Esta es la historia de un vato
 
 Que se fue a la guerra y nunca volvio
@@ -85,3 +86,30 @@ Ama a Dania x siempre
 >>>>>>> df3d5963eb01f4219b7b0e9094cc37d32312b216
 A su vida
 >>>>>>> 458de64 (Cambio de último momento en junio 2021)
+=======
+<<<<<<< HEAD
+Esta es la historia de un vato
+
+Que se fue a la guerra y nunca volvio
+Porque era marihuano
+
+Por eso le llamaron fanta
+
+Ama a Dania x siempre
+
+Ahora sí vamos a dejar este cambio
+
+Uno más que será decisivo
+
+=======
+Esta es la historia de un vato
+
+Que se fue a la guerra y nunca volvio
+Porque era marihuano
+
+Por eso le llamaron fanta
+
+Ama a Dania x siempre
+>>>>>>> df3d5963eb01f4219b7b0e9094cc37d32312b216
+A su vida
+>>>>>>> df29dfa (Lo siento, no recordé acordar commit jeje)
