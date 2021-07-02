@@ -1,5 +1,6 @@
 body
 {
+<<<<<<< HEAD
     color: black;
     text-align: left;
     font-family: "Arial";
@@ -41,4 +42,9 @@ font-size: 20px;
 #post
 {
     pa
+=======
+    color: darkmagenta;
+    text-align: center;
+    font-family: "Arial"
+>>>>>>> 6c78bd2 (este es algo más serio con css)
 }
