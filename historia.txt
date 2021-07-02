@@ -3,6 +3,7 @@ Esta es la historia de un vato
 
 Que se fue a la guerra y nunca volvio
 <<<<<<< HEAD
+<<<<<<< HEAD
 Porque era marihuano
 
 Por eso le llamaron fanta
@@ -22,3 +23,8 @@ A su vida
 =======
 Por eso le llamaron fanta
 >>>>>>> 904db37 (Cambios chafas)
+=======
+Porque era marihuano
+
+Por eso le llamaron fanta
+>>>>>>> 22a2d6a (cambios mensos)
